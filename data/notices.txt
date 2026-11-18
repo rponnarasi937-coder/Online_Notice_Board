@@ -1,0 +1,3 @@
+mwlvj8xb4a6ce0	Welcome+to+the+Online+Notice+Board	This+board+is+for+all+announcements.%0A%0ARegister+or+log+in+to+post+your+own+notices.+Admins+can+pin+important+notices+to+the+top+of+the+board.	General	Normal	admin	1794991400352	0	true
+mwlvj8xf62c528	Mid-semester+exam+timetable+released	The+timetable+for+the+mid-semester+examinations+has+been+published.%0APlease+check+your+exam+dates+and+report+to+the+hall+15+minutes+early.	Exams	Important	admin	1794987800352	1796201000352	false
+mwlvj8xib59971	Annual+Sports+Day+registrations+are+open	Register+with+your+class+representative+before+the+end+of+this+week.%0AEvents%3A+100m%2C+relay%2C+long+jump%2C+shot+put+and+tug+of+war.	Sports	Normal	admin	1794984200352	0	false
